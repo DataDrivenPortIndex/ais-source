@@ -1,4 +1,4 @@
-module github.com/DataDrivenPortIndex/ais_streaming_source
+module github.com/DataDrivenPortIndex/ais-source
 
 go 1.23.1
 
