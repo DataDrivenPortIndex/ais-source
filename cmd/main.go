@@ -59,7 +59,5 @@ func main() {
 			fmt.Printf("MMSI: %d Ship Name: %s Latitude: %f Longitude: %f\n",
 				positionReport.UserID, shipName, positionReport.Latitude, positionReport.Longitude)
 		}
-
 	}
-
 }
